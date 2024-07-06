@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Bstooooner666
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in crypti and money
+- 🌱 I’m currently learning financial
+- 💞️ I’m looking to collaborate on anythimg
+- 📫 How to reach me sivakslava76@gmail.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: yuor mom like me
 
 <!---
 Bstooooner666/Bstooooner666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
